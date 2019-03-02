@@ -1,1 +1,2 @@
-Tom
+name = "Diana"
+name = 'Tom'
